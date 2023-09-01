@@ -1,0 +1,12 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Website de um Petshop baseado em Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost 3000"
+  },
+  "author": "Murillo Gomes Yonamine",
+  "license": "ISC"
+}
